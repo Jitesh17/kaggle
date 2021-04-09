@@ -1,4 +1,7 @@
 numpy
 pandas
+ipython
+requests
+kaggle_environments
 sklearn
 xgboost
